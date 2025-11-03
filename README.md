@@ -17,3 +17,4 @@ Dự án gồm hai phần chính:
 ---
 
 
+![App Preview](mobile_app/assets/readme/app_preview.png)
